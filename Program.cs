@@ -4,33 +4,42 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace phase1section3._4
+namespace phase1section4._4
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            doApp();
+            runApp();
         }
-        public static void doApp()
+        public static void runApp()
         {
-            int integervar = 42;
-            double doublevar = 3.14;
-            char charactervar = 'A';
-            bool booleanvar = true;
+            string[] student1 = new string[10] { "swathi","Dinesh", "Raghu", "shanti", "Ramya", "Namrutha", "Divya", "kavya", "geetha", "sathish" };
+            string[] subjects = new string[6] { "English", "Maths", "Science", "physics", "Chemistry", "Biology" };
 
+            int[] marks = new int[6] { 80, 77, 87, 90, 66, 53 };
 
-            int sum = integervar + 10;
-            double product = doublevar * 2;
-            char nextcharacter = (char)(charactervar + 1);
-            bool isGreaterThanZero = integervar > 0;
+            
 
-            Console.WriteLine("Integer Variable: "+ integervar);
-            Console.WriteLine("double Variable: " + doublevar);
+            Console.WriteLine("students of class 1:");
+            foreach (string s in student1)
+            {
+                Console.WriteLine(s);
+            }
+            Console.WriteLine("");
 
-            Console.WriteLine("char Variable: " + charactervar);
+            
 
-            Console.WriteLine("bool Variable: " + booleanvar);
+            Console.WriteLine("Marks of Rakesh:");
+            int total = 0;
+            for (int i = 0; i<6; i++)
+            {
+                total += marks[i];
+                Console.WriteLine(subjects[i]+ "=" +marks[i]);
+
+            }
+            Console.WriteLine("TotalMarks = " + total + "/600 = "+(total*100/600)+"percent");
+            
 
 
 
