@@ -1,0 +1,5 @@
+Student Details:
+ Name:Dinesh
+ RollNo: 101
+Address: Hyderbad
+Student courses:  Html,Java
