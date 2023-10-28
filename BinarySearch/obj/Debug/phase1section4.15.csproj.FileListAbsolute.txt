@@ -1,0 +1,7 @@
+C:\Users\swath\source\repos\phase1section4.15\bin\Debug\phase1section4.15.exe.config
+C:\Users\swath\source\repos\phase1section4.15\bin\Debug\phase1section4.15.exe
+C:\Users\swath\source\repos\phase1section4.15\bin\Debug\phase1section4.15.pdb
+C:\Users\swath\source\repos\phase1section4.15\obj\Debug\phase1section4.15.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\phase1section4.15\obj\Debug\phase1section4.15.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\phase1section4.15\obj\Debug\phase1section4.15.exe
+C:\Users\swath\source\repos\phase1section4.15\obj\Debug\phase1section4.15.pdb
