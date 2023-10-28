@@ -1,0 +1,7 @@
+C:\Users\swath\source\repos\Teacher\bin\Debug\Teacher.exe.config
+C:\Users\swath\source\repos\Teacher\bin\Debug\Teacher.exe
+C:\Users\swath\source\repos\Teacher\bin\Debug\Teacher.pdb
+C:\Users\swath\source\repos\Teacher\obj\Debug\Teacher.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\Teacher\obj\Debug\Teacher.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\Teacher\obj\Debug\Teacher.exe
+C:\Users\swath\source\repos\Teacher\obj\Debug\Teacher.pdb
