@@ -1,0 +1,10 @@
+C:\Users\swath\source\repos\oops project\obj\Debug\oops project.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\oops project\obj\Debug\oops project.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\oops project\bin\Debug\oops project.exe.config
+C:\Users\swath\source\repos\oops project\bin\Debug\oops project.exe
+C:\Users\swath\source\repos\oops project\bin\Debug\oops project.pdb
+C:\Users\swath\source\repos\oops project\bin\Debug\oopsLibrary.dll
+C:\Users\swath\source\repos\oops project\bin\Debug\oopsLibrary.pdb
+C:\Users\swath\source\repos\oops project\obj\Debug\oops project.csproj.CopyComplete
+C:\Users\swath\source\repos\oops project\obj\Debug\oops project.exe
+C:\Users\swath\source\repos\oops project\obj\Debug\oops project.pdb
