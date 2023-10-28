@@ -1,0 +1,7 @@
+C:\Users\swath\source\repos\TeamPlayers\obj\Debug\TeamPlayers.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\TeamPlayers\obj\Debug\TeamPlayers.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\TeamPlayers\bin\Debug\TeamPlayers.exe.config
+C:\Users\swath\source\repos\TeamPlayers\bin\Debug\TeamPlayers.exe
+C:\Users\swath\source\repos\TeamPlayers\bin\Debug\TeamPlayers.pdb
+C:\Users\swath\source\repos\TeamPlayers\obj\Debug\TeamPlayers.exe
+C:\Users\swath\source\repos\TeamPlayers\obj\Debug\TeamPlayers.pdb
