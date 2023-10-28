@@ -1,0 +1,7 @@
+C:\Users\swath\source\repos\phase1section5.12\obj\Debug\phase1section5.12.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\phase1section5.12\obj\Debug\phase1section5.12.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\phase1section5.12\bin\Debug\phase1section5.12.exe.config
+C:\Users\swath\source\repos\phase1section5.12\bin\Debug\phase1section5.12.exe
+C:\Users\swath\source\repos\phase1section5.12\bin\Debug\phase1section5.12.pdb
+C:\Users\swath\source\repos\phase1section5.12\obj\Debug\phase1section5.12.exe
+C:\Users\swath\source\repos\phase1section5.12\obj\Debug\phase1section5.12.pdb
