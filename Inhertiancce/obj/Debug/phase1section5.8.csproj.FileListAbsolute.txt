@@ -1,0 +1,2 @@
+C:\Users\swath\source\repos\phase1section5.8\obj\Debug\phase1section5.8.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\phase1section5.8\obj\Debug\phase1section5.8.csproj.CoreCompileInputs.cache
