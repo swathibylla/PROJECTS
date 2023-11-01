@@ -1,0 +1,7 @@
+C:\Users\swath\source\repos\mutexdemo\bin\Debug\mutexdemo.exe.config
+C:\Users\swath\source\repos\mutexdemo\bin\Debug\mutexdemo.exe
+C:\Users\swath\source\repos\mutexdemo\bin\Debug\mutexdemo.pdb
+C:\Users\swath\source\repos\mutexdemo\obj\Debug\mutexdemo.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\mutexdemo\obj\Debug\mutexdemo.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\mutexdemo\obj\Debug\mutexdemo.exe
+C:\Users\swath\source\repos\mutexdemo\obj\Debug\mutexdemo.pdb
