@@ -1,0 +1,7 @@
+C:\Users\swath\source\repos\multithread\obj\Debug\multithread.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\multithread\obj\Debug\multithread.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\multithread\bin\Debug\multithread.exe.config
+C:\Users\swath\source\repos\multithread\bin\Debug\multithread.exe
+C:\Users\swath\source\repos\multithread\bin\Debug\multithread.pdb
+C:\Users\swath\source\repos\multithread\obj\Debug\multithread.exe
+C:\Users\swath\source\repos\multithread\obj\Debug\multithread.pdb
