@@ -1,0 +1,10 @@
+C:\Users\swath\source\repos\product\product\obj\Debug\product.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\product\product\obj\Debug\product.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\product\product\bin\Debug\product.exe.config
+C:\Users\swath\source\repos\product\product\bin\Debug\product.exe
+C:\Users\swath\source\repos\product\product\bin\Debug\product.pdb
+C:\Users\swath\source\repos\product\product\bin\Debug\mLibrary.dll
+C:\Users\swath\source\repos\product\product\bin\Debug\mLibrary.pdb
+C:\Users\swath\source\repos\product\product\obj\Debug\product.csproj.CopyComplete
+C:\Users\swath\source\repos\product\product\obj\Debug\product.exe
+C:\Users\swath\source\repos\product\product\obj\Debug\product.pdb

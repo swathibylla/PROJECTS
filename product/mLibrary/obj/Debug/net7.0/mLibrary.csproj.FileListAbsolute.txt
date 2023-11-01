@@ -1,0 +1,11 @@
+C:\Users\swath\source\repos\product\mLibrary\obj\Debug\net7.0\mLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\product\mLibrary\obj\Debug\net7.0\mLibrary.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\product\mLibrary\obj\Debug\net7.0\mLibrary.AssemblyInfo.cs
+C:\Users\swath\source\repos\product\mLibrary\obj\Debug\net7.0\mLibrary.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\product\mLibrary\bin\Debug\net7.0\mLibrary.deps.json
+C:\Users\swath\source\repos\product\mLibrary\bin\Debug\net7.0\mLibrary.dll
+C:\Users\swath\source\repos\product\mLibrary\bin\Debug\net7.0\mLibrary.pdb
+C:\Users\swath\source\repos\product\mLibrary\obj\Debug\net7.0\mLibrary.dll
+C:\Users\swath\source\repos\product\mLibrary\obj\Debug\net7.0\refint\mLibrary.dll
+C:\Users\swath\source\repos\product\mLibrary\obj\Debug\net7.0\mLibrary.pdb
+C:\Users\swath\source\repos\product\mLibrary\obj\Debug\net7.0\ref\mLibrary.dll
